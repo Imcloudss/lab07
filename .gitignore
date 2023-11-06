@@ -1,0 +1,7 @@
+# DIRECTORY
+*/bin/
+*/build/
+*/.gradle/
+
+# FILES
+
